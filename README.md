@@ -1,3 +1,4 @@
+![logo](https://github.com/MalikIshfaque/MalikIshfaque/blob/main/COMPUTER%20SCIENCE_ENGINEER.png)
 # 💫 About Me:
 ## 👨‍💻 About Me<br><br>I'm a passionate software developer who loves transforming ideas into impactful digital experiences. I believe that every challenge is an opportunity to learn, every bug is a lesson, and every project is a step toward becoming a better engineer. I enjoy building clean, scalable, and user-focused solutions while constantly exploring new technologies and pushing my limits.<br><br>Great software isn't just written—it's thoughtfully designed, continuously refined, and built to solve real-world problems.⭐🚀<br>
 
